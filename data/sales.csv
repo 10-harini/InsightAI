@@ -1,0 +1,11 @@
+order_id,product,category,price,quantity,revenue,region
+1001,Laptop,Electronics,65000,1,65000,South
+1002,Mouse,Electronics,1200,3,3600,North
+1003,Keyboard,Electronics,2500,2,5000,South
+1004,Headphones,Electronics,3500,2,7000,West
+1005,Office Chair,Furniture,8500,1,8500,South
+1006,Desk,Furniture,12000,2,24000,North
+1007,Notebook,Stationery,120,10,1200,East
+1008,Pen,Stationery,50,20,1000,South
+1009,Monitor,Electronics,18000,2,36000,West
+1010,Bookshelf,Furniture,6000,1,6000,East

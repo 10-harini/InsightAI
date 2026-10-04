@@ -1,0 +1,28 @@
+@'
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+backend/venv/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Editors
+.vscode/
+.DS_Store
+Thumbs.db
+'@ | Set-Content -Encoding utf8 .gitignore
