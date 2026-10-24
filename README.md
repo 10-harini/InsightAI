@@ -1,3 +1,29 @@
+## 📸 Project Screenshots
+
+### Home Page
+![InsightAI Home](homepage.png)
+
+
+### Data Analysis & Question Answering
+![Data Analysis](analysis,question.png)
+
+
+### Bar Chart
+![Bar Chart](barchart.png)
+
+
+### Homepage Bottom
+![Homepage Bottom](homepagebottom.png)
+
+
+### Line Chart
+![Line Chart](linechart.png)
+
+
+### Swagger API Documentation
+![Swagger UI](swagger.png)
+
+
 # InsightAI — AI Data Analyst
 
 InsightAI is an AI-powered data analysis web application that helps users explore CSV datasets, view key statistics, ask questions about their data, and visualize results through interactive charts.
@@ -170,3 +196,10 @@ B.Tech — Artificial Intelligence and Data Science
 ## License
 
 This project is intended for educational, portfolio, and demonstration purposes. Add a license file if you choose to distribute it under a specific open-source license.
+
+
+
+
+
+
+
